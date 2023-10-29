@@ -1,6 +1,4 @@
-Sure, here's a draft for your README.md:
 
-```markdown
 # My React Application
 
 This is a React application built with Node.js version 21.0.0⁹[^10^]¹¹.
